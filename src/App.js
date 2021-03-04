@@ -4,7 +4,7 @@ export default function App() {
     <div className="App">
       <header className="flex-container">
         <img
-          src={require("./images/logo.png")}
+          src="./images/logo.png"
           alt="logo"
           width="100px"
           height="100px"
