@@ -4,7 +4,7 @@ export default function App() {
     <div className="App">
       <header className="flex-container">
         <img
-          src={require("./images/logo.png")}
+          src={require("../public/images/logo.png")}
           alt="logo"
           width="100px"
           height="100px"
@@ -25,7 +25,7 @@ export default function App() {
         </section>
 
         <img
-          src={require("./images/product.jpg")}
+          src={require("../public/images/product.jpg")}
           alt="Lamp Product"
           width="300px"
           height="300px"
@@ -59,7 +59,7 @@ export default function App() {
           <p>Facebook:</p>
           <a href="www.facebook.com">
             <img
-              src={require("./images/facebook_logo.png")}
+              src={require("../public/images/facebook_logo.png")}
               alt="facebook_logo"
               width="40px"
               height="40px"
@@ -70,7 +70,7 @@ export default function App() {
           <p>Twitter:</p>
           <a href="twitter.com">
             <img
-              src={require("./images/twitter_logo.png")}
+              src={require("../public/images/twitter_logo.png")}
               alt="twitter_logo"
               width="40px"
               height="40px"
